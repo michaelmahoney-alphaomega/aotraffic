@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "aotraffic"
 version = "0.1.0"
-description = "An open source higher level library for invoking node commands with OPC UA
+description = "An open source higher level library for invoking node commands with OPC UA"
 authors = [{ name="Michael Mahoney", email="michael.mahoney@alphaomega.com.co" }]
 readme = "README.md"
 license = { file="LICENSE" }
